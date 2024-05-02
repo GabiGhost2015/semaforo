@@ -1,12 +1,3 @@
-input.onButtonPressed(Button.A, function () {
-	
-})
-input.onButtonPressed(Button.AB, function () {
-	
-})
-basic.forever(function () {
-	
-})
 basic.forever(function () {
     pins.digitalWritePin(DigitalPin.P1, 0)
     pins.digitalWritePin(DigitalPin.P0, 1)
